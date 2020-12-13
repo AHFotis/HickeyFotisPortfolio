@@ -1,2 +1,2 @@
-# HickeyFotisPortfolio
-Proffesional Portfolio for Anna Hickey Fotis
+# Anna Hickey Fotis Portfolio
+Profesional Portfolio for Anna Hickey Fotis

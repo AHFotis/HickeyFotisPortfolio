@@ -1,0 +1,10 @@
+
+/* Change end of class to navbar-custom (after lg) to customize color of navbar. Tag looks like the following:
+
+.navbar {
+    background-color: blue;
+}*/
+
+body {
+    background-color: rgb(219, 144, 156);
+}
