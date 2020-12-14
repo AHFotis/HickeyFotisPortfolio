@@ -4,6 +4,24 @@
 .navbar {
     background-color: blue;
 }*/
+/* Full Body Styling */
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* Nav Bar Styling */
+nav {
+    border: 2px solid black;
+}
+
+.navbar-brand {
+    font-size: 25px;
+}
+
+.nav-item:hover {
+    text-decoration: underline;
+}
 
 body {
     background-color: rgb(219, 144, 156);
