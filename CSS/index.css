@@ -4,5 +4,10 @@ img {
     margin: 10px; 
 } 
 
-
+.aboutMe {
+    margin-top: 100px;
+    margin-bottom: 200px;
+    border: 2px solid black;
+    background-color: white; 
+}
 
