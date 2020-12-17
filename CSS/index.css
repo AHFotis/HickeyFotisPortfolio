@@ -10,8 +10,8 @@ a {
     color: gray;
 }
 
-a:hover {
-    color: black;
+i:hover {
+   color: black;
 }
 
 a:visited {
