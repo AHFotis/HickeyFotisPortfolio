@@ -2,6 +2,19 @@
 img { 
     float: left;  
     margin: 10px; 
+    height: 200px;
+    width: 200px;
 } 
 
+a {
+    color: gray;
+}
+
+a:hover {
+    color: black;
+}
+
+a:visited {
+    color: gray;
+}
 

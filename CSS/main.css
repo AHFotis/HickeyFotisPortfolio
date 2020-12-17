@@ -8,6 +8,7 @@
 
 * {
     font-family: 'Courier New', Courier, monospace;
+    
 }
 
 /* Nav Bar Styling */
@@ -25,7 +26,11 @@ nav {
 
 /* General Body Styling */
 body {
-    background-color: rgb(219, 144, 156);
+    /* background-color: rgb(219, 144, 156); */
+    background-image: url("/Images/Dusk_Reflections_of_Minneapolis_bgnbvz.jpg");
+    background-size: cover;
+    background-position: center;
+
 }
 
 .mainBody {
