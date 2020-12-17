@@ -2,7 +2,7 @@
 This is the basic code and structure for Anna Hickey Fotis's professional website.
 
 ## Link To Deployed Page
-[GitHub](https://ahfotis.github.io/AnnaHickeyHome/)
+[GitHub](https://ahfotis.github.io/HickeyFotisPortfolio/)
 
 ## Reference Image
 To be added later
