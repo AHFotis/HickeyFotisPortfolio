@@ -1,8 +1,8 @@
 # Anna Hickey Fotis Portfolio
-This is the basic code and structure for Anna Hickey Fotis's professional website.
+This is the basic code and structure for Anna Hickey Fotis's professional portfolio.
 
 ## Link To Deployed Page
-[Click to visit deployed page](https://ahfotis.github.io/HickeyFotisPortfolio/)
+[Click to visit https://ahfotis.github.io/HickeyFotisPortfolio/](https://ahfotis.github.io/HickeyFotisPortfolio/)
 
 ## Reference Image
 ![Homepage Reference](/Images/Homepage_ref.png)
@@ -31,7 +31,7 @@ This page utilzes Bootstrap and its frameworks and components to create a respon
 
  * Portfolio
     * Image based page.
-    * Currently contains images of Anna Hickey Fotis's hobbies. Will be updated with workas work is completed.
+    * Currently contains images of Anna Hickey Fotis's hobbies. Will be updated with work as work is completed.
     * Contains links to other pages in site.
 
  * Contact
@@ -39,6 +39,9 @@ This page utilzes Bootstrap and its frameworks and components to create a respon
     * Contains a Bootstrap form for e-mailing Anna.
     * Form currently non-functioning. 
     * Contains links to other pages in site.
+
+## Credits
+Background image from free collection of Rawpixel Ltd. All other images are the author's.
 
 ## License
 MIT License

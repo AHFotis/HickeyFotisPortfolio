@@ -1,14 +1,8 @@
 
-/* Change end of class to navbar-custom (after lg) to customize color of navbar. Tag looks like the following:
-
-.navbar {
-    background-color: blue;
-}*/
 /* Full Body Styling */
 
 * {
     font-family: 'Courier New', Courier, monospace;
-    
 }
 
 /* Nav Bar Styling */
@@ -25,14 +19,6 @@ nav {
 }
 
 /* General Body Styling */
-body {
-    /* background-color: rgb(219, 144, 156); */
-    background-image: url("/Images/Dusk_Reflections_of_Minneapolis_bgnbvz.jpg");
-    background-size: cover;
-    background-position: center;
-
-}
-
 .mainBody {
     margin-top: 100px;
     margin-bottom: 200px;
