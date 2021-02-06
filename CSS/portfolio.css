@@ -1,6 +1,6 @@
 
-.img {
-    margin: 10px;
-    height: 300px;
-    width: 300px;
+.link {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
 }
