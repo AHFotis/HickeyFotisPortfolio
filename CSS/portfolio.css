@@ -4,3 +4,15 @@
     color: black;
     font-weight: bold;
 }
+
+.resume {
+    text-align: center;
+}
+
+.fa-file {
+    color: gray;
+}
+
+.fa-file:hover {
+    color: black;
+}
