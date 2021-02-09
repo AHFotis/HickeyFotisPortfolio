@@ -16,3 +16,10 @@
 .fa-file:hover {
     color: black;
 }
+
+@media screen and (max-width: 334px) {
+
+    .bodyHead {
+        font-size: 30px;
+    }
+}
